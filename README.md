@@ -15,7 +15,8 @@ Matricula: 900673
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-![Hello World replit](imagens/Print_Tela_replit.PNG)
+
+![Hello World replit](images/Print_Tela_replit.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
