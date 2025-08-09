@@ -4,16 +4,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Daniel Junio Leo
+Matricula: 900673
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Ferramente do desenvolvedor](images/Print_tela_ferramenta_dev.PNG)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+![Hello World replit](imagens/Print_Tela_replit.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
